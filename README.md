@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujal Gangshettiwar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [sujal9101](sujal9101)
+- 👨‍💻 All of my projects are available at [sujal9101]((https://github.com/sujal9101?tab=repositories))
 
 - 📫 How to reach me **sujalgangshettiwar9101@gmail.com**
 
